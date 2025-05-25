@@ -261,7 +261,7 @@ export default function Welcome() {
                     в поиске второй <br />
                     половинки
                     </p>
-                    <div className="absolute top-[80px] left-0"><Image src={smartphone2} alt="smartphone2" /></div>
+                    <div className="absolute bottom-[215px] left-0"><Image src={smartphone2} alt="smartphone2" /></div>
                     <div className="pt-[57px] absolute left-0 bottom-[103px] w-[100%] h-[302px] z-1000 px-[58px]" style={{ backgroundImage: `url(${Rectangle63.src})` }}>
                         <p className="text-[rgba(255,255,255,0.8)] font-montserrat font-[400] tracking-[0] text-[15px] leading-[15px]">
                             Love is — это настоящие знакомства, где вы можете найти равного себе партнера для жизни
